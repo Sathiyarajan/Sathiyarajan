@@ -2,10 +2,11 @@
 
 I'm a Data & Devops Engineer working in Chennai, India. 
 
-🏢 I'm currently working at Standard Chartered 
-⚙️ I use daily: .java, .scala, .py, .sh, .py, .yml, .xml 
-🌱 Learn all about Open Source and Financial Market 
-📫 Reach me: https://sathiya.xyz/
+- 🏢 I'm currently working at Standard Chartered 
+- ⚙️ I use daily: .java, .scala, .py, .sh, .py, .yml, .xml 
+- 🌱 Learn all about Open Source and Financial Market 
+- 📫 Reach me: https://sathiya.xyz/
+
 <!--
 **Sathiyarajan/Sathiyarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
