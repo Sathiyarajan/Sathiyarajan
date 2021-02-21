@@ -4,7 +4,7 @@ I'm a Data & Devops Engineer working in Chennai, India.
 
 - 🏢 I'm currently working at Standard Chartered 
 - ⚙️ I use daily: .java, .scala, .py, .sh, .py, .yml, .xml 
-- 🌱 Learn all about Open Source and Financial Market 
+- 🌱 Learn all about Open Source and Financial Market & Wholesale Banking
 - 📫 Reach me: https://sathiya.xyz/
 
 <!--
