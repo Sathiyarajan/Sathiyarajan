@@ -1,3 +1,10 @@
+<p align="center">
+  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sathiyarajan&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sathiyarajan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
 
 I'm a Data & Devops Engineer working in Chennai, India. 
