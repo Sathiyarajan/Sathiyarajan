@@ -9,8 +9,8 @@
 
 I'm a Data & Devops Engineer working in Chennai, India. 
 
-- 🏢 I'm currently working at Standard Chartered (Ex-Philips, Ex-BofA)
-- ⚙️ I use daily: .java, .scala, .py, .sh, .py, .yml, .xml 
+- 🏢 I'm currently working at Maveric Systems (Ex-Philips, Ex-BofA)
+- ⚙️ I use daily: .java, .scala, .py, .sh, .sql, .yml, .xml 
 - 🌱 Learn all about Open Source and Financial Market & Wholesale Banking
 - 📫 Reach me: https://sathiya.xyz/
 - ⚡ Fun fact: Kill the boy, Let the man be born!
