@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm a Data & Devops Engineer working in Chennai, India. 
+I'm a Data & Devops Engineer working in Irving, Texas. 
 
 - 🏢 I'm currently working at Maveric Systems (Ex-Philips, Ex-BofA)
 - ⚙️ I use daily: .java, .scala, .py, .sh, .sql, .yml, .xml 
