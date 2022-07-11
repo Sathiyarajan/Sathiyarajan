@@ -35,6 +35,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/ivan_sathyadev/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://in.linkedin.com/in/sathiyarajan-mariyappan-sathya-4225791b8"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@shathi.ece"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/medium.png?raw=true"></a>&nbsp;&nbsp;
+
+![](https://visitor-badge.glitch.me/badge?page_id=sathiyarajan.sathiyarajan)
+
 <!-- <a href="https://twitter.com/NishkarshRaj1"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCbDBnnrPZVqybiDQB9kP1cA"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/yt.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://nishkarshraj.github.io"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/website.png?raw=true"></a>&nbsp;&nbsp;
