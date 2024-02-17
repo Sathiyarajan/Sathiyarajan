@@ -7,9 +7,9 @@
 
 ### Hi there 👋
 
-I'm a Data & Devops Engineer working in Irving, Texas. 
+I'm a Data & Devops Engineer working in Irving, Texas, USA. 
 
-- 🏢 I'm currently working at Maveric Systems (Ex-Philips, Ex-BofA)
+- 🏢 I'm currently working at Maveric Systems (Ex-Philips, Ex-BofA, Ex-Standard Chartered)
 - ⚙️ I use daily: .java, .scala, .py, .sh, .sql, .yml, .xml 
 - 🌱 Learn all about Open Source and Financial Market & Wholesale Banking
 - 📫 Reach me: https://sathiya.xyz/
